@@ -1,5 +1,5 @@
 
-[![MasterHead](Abhoy84/Github Banner.png)](https://codegrills.in)
+[![MasterHead]([Abhoy84/Github Banner.png](https://github.com/Abhoy84/Abhoy84/blob/main/Github%20Banner.png))](https://codegrills.in)
 
 
 <h1 align="center">Hi 👋, I'm Abhoy Mallik</h1>
