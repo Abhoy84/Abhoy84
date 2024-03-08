@@ -1,5 +1,5 @@
 
-[![MasterHead]([Abhoy84/Github Banner.png](https://github.com/Abhoy84/Abhoy84/blob/main/Github%20Banner.png))](https://codegrills.in)
+<div align="center"> <img src="https://github.com/Abhoy84/Abhoy84/blob/main/Github%20Banner.png"></div>
 
 
 <h1 align="center">Hi 👋, I'm Abhoy Mallik</h1>
