@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Abhoy Mallik</h1>
 <h3 align="center">A passionate Android developer(using Flutter) from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fstickers%2Fhacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F&psig=AOvVaw1m3ryT9LevzBin06PoDDgp&ust=1709980225250000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwjzgrvwuuSEAxUuUGwGHUWBDNEQjRx6BAgAEBY">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGN1Zmd6czkxYnppa2o0b2xkdHM3Z3N5cWRqczMyODhyNHowdjV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif">
 
 
 - 🔭 I’m currently working on **Nursing Home Management System**
