@@ -1,5 +1,5 @@
 
-<div align="center"> <img src="https://github.com/Abhoy84/Abhoy84/blob/705f35c343c6561ada56f28e8c26905f0bb65483/Github%20Banner.png"></div>
+<div align="center"> <img src="https://github.com/Abhoy84/Abhoy84/blob/33a50b82709b371d62470fdb6536f825c6a5778c/bnn.jpg"></div>
 
 
 <h1 align="center">Hi 👋, I'm Abhoy Mallik</h1>
