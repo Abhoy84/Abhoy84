@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abhoy Mallik 👋</h1>
-<h3 align="center">Flutter Developer | Android, Windows &amp; macOS Apps | Dart | Firebase</h3>
+<h3 align="center">Flutter Developer | Android, Windows, IOS &amp; macOS Apps | Dart | Firebase</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abhoy-mallik-4588842b8"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
